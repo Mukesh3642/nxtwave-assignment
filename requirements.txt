@@ -1,0 +1,11 @@
+streamlit>=1.50
+scikit-learn
+matplotlib
+numpy
+pandas
+pypdf
+python-docx
+fpdf2>=2.7
+requests
+# Optional upgrade: semantic embeddings (bge-small, ONNX, ~67 MB). Uncomment AND set USE_EMBEDDINGS=1
+# fastembed
