@@ -1,0 +1,4 @@
+timestamp,session,event,utm_source,detail
+2026-10-05T18:06:20,72f59f5177,page_view,direct,
+2026-10-05T18:06:54,72f59f5177,resume_scanned,direct,AI / ML Engineer|sample=False
+2026-10-05T18:08:35,72f59f5177,lead_captured,direct,GenAI & LLMs

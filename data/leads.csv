@@ -1,0 +1,2 @@
+timestamp,lead_id,name,phone,college,grad_year,role,readiness,credibility,top_gap,project_track,flags,utm_source,utm_campaign,referred_by,referral_code,consent,delivery_status
+2026-10-05T18:08:35,NWA58256180834,mukesh,+916301066081,Amrita,2026,AI / ML Engineer,40,75,GenAI & LLMs,RAG Chatbot over Your College Syllabus,unproven,direct,,,NWA58256,yes,demo_mode
